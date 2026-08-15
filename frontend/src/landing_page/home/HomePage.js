@@ -13,7 +13,6 @@ function HomePage() {
     return (
         <>
 
-            <Navbar />
             <Hero />
             <Awards />
             <Stats />

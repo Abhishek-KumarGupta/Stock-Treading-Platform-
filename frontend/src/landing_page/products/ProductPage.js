@@ -8,9 +8,9 @@ const ProductPage = () => {
   return (
    <>
    <Hero />
-   <Universe />
    <LeftSection/>
    <RightSection/>
+   <Universe />
    </>
   )
 }

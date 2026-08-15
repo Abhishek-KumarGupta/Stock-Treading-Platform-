@@ -5,8 +5,8 @@ import Hero from './Hero'
 const PricingPage = () => {
   return (
    <>
+    <Hero/>
    <Brojkerage />
-   <Hero/>
    </>
   )
 }
